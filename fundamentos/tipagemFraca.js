@@ -10,4 +10,4 @@ console.log(name + '=' + typeof name )
 let status = true
 console.log(status + '=' + typeof status)
 
-//javaScript é uma linguagem fracamente tipada
+//javaScript é uma linguagem fracamente tipada 
