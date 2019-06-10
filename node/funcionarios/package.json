@@ -2,8 +2,12 @@
   "name": "funcionarios",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "funcionarios.js",
   "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "cmatrix": "cmatrix",
+    "testando": "echo \" teste de NPM no terminal\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
