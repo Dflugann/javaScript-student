@@ -1,0 +1,8 @@
+{
+    "node": {
+        "host": "121.0.0.1",
+        "port": "5432",
+        "user": "flavio.santos",
+        "pass": "123456"
+    }
+}
